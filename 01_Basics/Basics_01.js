@@ -1,4 +1,3 @@
-// 
 
 // Blocked , function , global scope in "Var"
 // var a = 20;
@@ -9,9 +8,10 @@
 // console.log("outside :",a)
 
 // Blocked , function , global scope in "let"
-let b = 30;
-{
-  let b = 35;
-  console.log("inside B", b)
-}
-console.log("outside B",b)
+
+// let b = 30;
+// {
+//   let b = 35;
+//   console.log("inside B", b)
+// }
+// console.log("outside B",b)
