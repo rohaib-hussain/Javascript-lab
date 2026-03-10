@@ -16,3 +16,14 @@
 //     console.log("Falsy ")     
 //   }
 
+
+
+// Loop:
+
+// for loop :
+
+  i = 100;  // 1-100 or 0-100
+  for (i = 0 ; i < 101 ; i++){
+    console.log(i);
+  }
+  
