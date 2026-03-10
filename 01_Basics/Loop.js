@@ -1,5 +1,8 @@
 // Loop => we use loop concept in programming to avoid 
-// repitive task .
+// repitive task.
+
+// Types of Loops :
+// 1. for loop , 2. while loop , 3.do-while loop , 4. break  loop , 5. continue loop .
 
 
 // for loop :
@@ -54,3 +57,33 @@
   //     k ++
   //   }
   //   while (k < 14)
+
+
+
+  // break loop
+  //  for (i = 1 ; i < 101 ; i ++ ){
+  //   console.log(i);
+  //   if (i === 50 ){ 
+  //     break;    // => Break the code at 50 
+  //   }
+  //  }
+
+
+
+
+  //  continue loop:
+  // Example number 1
+  //  for (let i = 1 ; i < 20 ; i ++ ){
+  //    if (i === 10 ){ 
+  //      continue;    // => continue loop skipped "10"
+  //     }
+  //     console.log(i);
+  //  }
+
+  // example no 2
+  //  for (count = 1 ; count<30 ; count++){
+  //    if (count=== 15){
+  //     continue;
+  //    }
+  //    console.log(count); 
+  //  }
